@@ -1,3 +1,10 @@
+# ![GodMode9](https://github.com/M4nueleZ/GodMode9_ITA/blob/master/resources/logoit.png)
+## Traduzione Italiana
+Questa è l'edizione italiana di GodMode9, file browser per console Nintendo 3DS.
+Attualmente sono stati tradotti tutti i testi principali visualizzabili ed è stato anche inserito uno splash personalizzato.
+La traduzione è stata scritta da M4nueleZ, a seguito è possibile trovare il file README originale con i crediti ai rispettivi autori del programma.
+
+
 # ![GodMode9](https://github.com/d0k3/GodMode9/blob/master/resources/logo.png)
 _A full access file browser for the 3DS console_ :godmode:
 
